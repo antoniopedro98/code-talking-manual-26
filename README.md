@@ -68,12 +68,13 @@ The software we developed is distributed under MIT license. See the [LICENSE.md]
 
 ## Timeline
 
-| Date        | Event                         |
-|-------------|------------------------------|
-| 30/11/2025  | Registration closes          |
-| 31/12/2025  | Submission deadline          |
-| 21/01/2026  | Results announcement         |
-| 14/04/2026  | ICSE Presentation            |
+
+| Status | Date        | Event                         |
+|--------|-------------|------------------------------|
+| 🔴     | 30/11/2025  | Registration closes          |
+| 🟢     | 09/01/2026  | Submission deadline (extended) |
+| 🟢     | 21/01/2026  | Results announcement         |
+| 🟢     | 14/04/2026  | ICSE Presentation            |
 
 ## Organizers ##
 
